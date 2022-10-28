@@ -1,2 +1,1 @@
-# TCP/UDP client/server API for C++
-
+# Simple cross-platform wrapper for TCP/UDP sockets
