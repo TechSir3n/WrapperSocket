@@ -1,7 +1,6 @@
 # SocketWrapper
 
-
-\# __Simple cross-platform wrapper for TCP/UDP sockets__
+__Simple cross-platform wrapper for TCP/UDP sockets__
 
 ***
 
