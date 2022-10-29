@@ -1,7 +1,11 @@
-# Simple cross-platform wrapper for TCP/UDP sockets
+# SocketWrapper
 
 
->EXAMPLE 
+\# __Simple cross-platform wrapper for TCP/UDP sockets__
+
+***
+
+>EXAMPLE CODE
 
 ```
 using namespace wrapper;
