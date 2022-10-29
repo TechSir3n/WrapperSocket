@@ -5,6 +5,21 @@
 
 ***
 
+
+
+## Build
+**Linux(on project path)**
+
+mkdir build && cd build && cmake .. && make
+
+## Windows
+
+mkdir build && cd build && cmake .. open sln file
+
+___
+
+
+
 >**EXAMPLE CODE**
 
 ```
