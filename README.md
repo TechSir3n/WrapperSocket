@@ -12,7 +12,7 @@
 
 mkdir build && cd build && cmake .. && make
 
-## Windows
+**Windows**
 
 mkdir build && cd build && cmake .. open sln file
 
