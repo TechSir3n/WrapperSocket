@@ -5,7 +5,7 @@
 
 ***
 
->EXAMPLE CODE
+>**EXAMPLE CODE**
 
 ```
 using namespace wrapper;
