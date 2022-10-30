@@ -1,0 +1,16 @@
+/home/ruslan/Рабочий стол/Socket/build/CMakeFiles/edit_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/CMakeFiles/rebuild_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/utils/CMakeFiles/UTILS.dir
+/home/ruslan/Рабочий стол/Socket/build/utils/CMakeFiles/edit_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/utils/CMakeFiles/rebuild_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/example/CMakeFiles/edit_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/example/CMakeFiles/rebuild_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/example/client/CMakeFiles/CLIENT.dir
+/home/ruslan/Рабочий стол/Socket/build/example/client/CMakeFiles/edit_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/example/client/CMakeFiles/rebuild_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/example/server/CMakeFiles/SERVER.dir
+/home/ruslan/Рабочий стол/Socket/build/example/server/CMakeFiles/edit_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/example/server/CMakeFiles/rebuild_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/core/CMakeFiles/SRC.dir
+/home/ruslan/Рабочий стол/Socket/build/core/CMakeFiles/edit_cache.dir
+/home/ruslan/Рабочий стол/Socket/build/core/CMakeFiles/rebuild_cache.dir
