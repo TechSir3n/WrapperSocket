@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/CLIENT.dir/main.cpp.o -o ../../CLIENT  -lSOCKET 

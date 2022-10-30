@@ -1,2 +1,0 @@
-/usr/bin/ar qc libSRC.a CMakeFiles/SRC.dir/src/Socket.cpp.o CMakeFiles/SRC.dir/src/tcpClient.cpp.o CMakeFiles/SRC.dir/src/tcpServer.cpp.o CMakeFiles/SRC.dir/src/udpClient.cpp.o CMakeFiles/SRC.dir/src/udpServer.cpp.o
-/usr/bin/ranlib libSRC.a
