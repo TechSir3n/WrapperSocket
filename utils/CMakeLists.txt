@@ -10,5 +10,3 @@ add_library(${PROJECT_NAME} STATIC
             ${UTILS_INCLUDE}
             ${UTILS_SOURCE}
 )
-
-#target_include_directories(${PROJECT_NAME}PUBLIC src/)
