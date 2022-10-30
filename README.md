@@ -20,7 +20,7 @@ ___
 
 
 >**EXAMPLE CODE**
-
+```
 constexpr size_t buf_size=256;
 
 using namespace wrapper;
