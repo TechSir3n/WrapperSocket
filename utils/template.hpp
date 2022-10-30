@@ -10,7 +10,9 @@ namespace wrapper{
     public:
         explicit sock_template()noexcept : sock_ptr(nullptr) {   }
 
-        sock_template(const char *addr_IP,uint16_t _port,domain_socket _type=domain_socket::IPv4);
+        template<class ...Type>
+        sock_template(Type... _type):sock_ptr(new _Type(_type...))  { }
+
 
         sock_template(_Type *_sock)noexcept;
 
@@ -45,10 +47,18 @@ namespace wrapper{
     };
 
     template<class _Type>
-    sock_template<_Type> MakeSocketPtr(const char *addr_IP,uint16_t _port,domain_socket _type=domain_socket::IPv4)
+    sock_template<_Type>MakeSocketPtr(_Type args)
     {
-        return sock_template<_Type>(addr_IP,_port,_type);
+        return sock_template<_Type>(args);
     }
+
+    template<class Type,class ..._Type>
+    sock_template<Type>MakeSocketPtr(_Type ...argc)
+    {
+        return sock_template<Type>(argc...);
+
+    }
+
 }
 
 #endif // TEMPLATE_HPP
